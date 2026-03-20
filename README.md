@@ -89,8 +89,4 @@ CTF Challenges
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=00ff88&label=Profile+Views" />
-</p>
-
 <p align="center"><em>"Security is not a product, but a process." — Bruce Schneier</em></p>
