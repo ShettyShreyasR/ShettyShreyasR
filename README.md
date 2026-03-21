@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Shreyas</h1>
 
 <p align="center">
-  <em>MSc Cybersecurity Student &nbsp;·&nbsp; Full-Stack Developer &nbsp;·&nbsp; Security Researcher</em>
+  <em>MSc Cybersecurity Student &nbsp; &nbsp;·&nbsp; Security Researcher ·&nbsp; AI-ML</em>
 </p>
 
 <p align="center">
